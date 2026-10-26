@@ -1,0 +1,9 @@
+Registrado justia-clf-beto v2.0.0 (aprobado_piloto) hash=efd234af3089
+justia-ner             v1.0.0   2026-10-09  aprobado_piloto  riesgo=falsos_negativos|privacidad
+justia-qa              v0.9.0   2026-10-09  rechazado        riesgo=alucinacion|sesgo
+justia-qa              v1.0.0   2026-10-10  en_revision      riesgo=alucinacion|falsos_positivos
+justia-clf-beto        v1.0.0   2026-10-11  aprobado_piloto  riesgo=sesgo|falsos_positivos
+justia-clf-beto        v1.1.0   2026-10-18  en_revision      riesgo=sesgo|opacidad
+justia-clf-beto        v2.0.0   2026-10-26  aprobado_piloto  riesgo=sesgo|falsos_positivos
+OK: el modelo es el mismo que se registro y se valido
+Tabla exportada en control_versiones_modelos.md

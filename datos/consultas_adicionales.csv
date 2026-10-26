@@ -1,0 +1,61 @@
+id,categoria,tipo,texto
+CA-001,penal,consulta_usuario,"Me robaron la bicicleta afuera del colegio y tengo el video de la cámara, ¿dónde pongo la denuncia?"
+CA-002,penal,consulta_usuario,"Un tipo me sacó un cuchillo en la esquina y me quitó el bolso, ¿qué hago?"
+CA-003,penal,consulta_usuario,"Me están extorsionando por WhatsApp, dicen que si no consigno le hacen algo a mi familia."
+CA-004,penal,consulta_usuario,"Mi sobrino lleva tres días detenido en la estación y no lo han llevado ante un juez, ¿eso es legal?"
+CA-005,penal,consulta_usuario,Me vendieron un carro con papeles falsos y el vendedor desapareció.
+CA-006,penal,consulta_usuario,"Un señor le mostró sus partes íntimas a mi hija en el parque, ¿cómo lo denuncio?"
+CA-007,penal,consulta_usuario,Me llegó una citación para una audiencia de imputación y no tengo abogado.
+CA-008,penal,consulta_usuario,Se metieron a la casa mientras estábamos de viaje y se llevaron el televisor y las joyas.
+CA-009,penal,consulta_usuario,Me suplantaron en una entidad y sacaron un crédito a mi nombre.
+CA-010,penal,consulta_usuario,"El vecino me amenazó con un machete por un problema de linderos, ¿puedo denunciarlo?"
+CA-011,penal,consulta_usuario,"Atropellaron a mi mamá y el conductor se voló, tengo la placa."
+CA-012,penal,consulta_usuario,Me hicieron un paseo millonario en un taxi y me sacaron plata de los cajeros.
+CA-013,penal,consulta_usuario,A mi hijo lo cogieron con un cacho de marihuana y lo van a judicializar.
+CA-014,penal,consulta_usuario,"Me falsificaron la firma en un pagaré, ¿eso es delito?"
+CA-015,penal,consulta_usuario,Una muchacha me acusa de algo que no hice y la Fiscalía me citó a interrogatorio.
+CA-016,penal,consulta_usuario,Mi primo está en la cárcel y quiero saber si puede pedir la casa por cárcel.
+CA-017,penal,consulta_usuario,Le dieron una puñalada a mi hermano en una pelea y el agresor sigue libre.
+CA-018,penal,consulta_usuario,Me estafaron con una inversión por internet que prometía duplicar la plata.
+CA-019,penal,consulta_usuario,Unos pelados me rompieron el vidrio del carro para robarse el radio.
+CA-020,penal,consulta_usuario,¿Qué pasa si no voy a la audiencia que me puso la Fiscalía por lesiones?
+CA-021,genero,consulta_usuario,"Mi esposo me tiene la tarjeta del banco y me da la plata contada, si gasto en algo me grita."
+CA-022,genero,consulta_usuario,"Él cobra mi sueldo y no me deja tener cuenta propia, dice que yo no sé manejar dinero."
+CA-023,genero,consulta_usuario,Mi compañero no me deja trabajar y cuando le pido para el mercado me humilla.
+CA-024,genero,consulta_usuario,Me quitó el celular y los papeles para que no me pueda ir de la casa.
+CA-025,genero,consulta_usuario,"Mi pareja vendió mi moto sin preguntarme, era con la que yo trabajaba."
+CA-026,genero,consulta_usuario,"Mi exnovio me persigue, me espera a la salida del trabajo y me escribe desde otros números."
+CA-027,genero,consulta_usuario,Mi marido me empujó y me dijo que si lo denuncio me quita a los niños.
+CA-028,genero,consulta_usuario,"Me controla todo, a dónde voy, con quién hablo y cuánto gasto."
+CA-029,genero,consulta_usuario,Mi pareja me obliga a tener relaciones aunque yo no quiera.
+CA-030,genero,consulta_usuario,Mi jefe me toca y me dice cosas cuando estamos solos en la oficina.
+CA-031,genero,consulta_usuario,Mi esposo me dejó sin plata para la comida porque salí a visitar a mi mamá.
+CA-032,genero,consulta_usuario,"Él dice que la casa y el carro son de él aunque los pagamos los dos, y me amenaza con echarme."
+CA-033,genero,consulta_usuario,Mi excompañero publicó fotos mías sin permiso en un grupo.
+CA-034,genero,consulta_usuario,Mi pareja me pega cuando toma y después me pide perdón.
+CA-035,genero,consulta_usuario,En la comisaría no me quisieron recibir la denuncia contra mi esposo.
+CA-036,genero,consulta_usuario,Mi ex me escribe que me va a hacer daño si salgo con otra persona.
+CA-037,genero,consulta_usuario,Mi marido me retiene el salario y me castiga quitándome la plata del transporte.
+CA-038,genero,consulta_usuario,"Me dice que soy una inútil y que nadie me va a querer, ya no aguanto."
+CA-039,genero,consulta_usuario,Necesito una medida de protección porque mi expareja sigue yendo a mi casa.
+CA-040,genero,consulta_usuario,Él rompió mis cosas de trabajo y me escondió la cédula para que no saliera.
+CA-041,constitucional,consulta_usuario,"La EPS me negó una resonancia que me ordenó el neurólogo, ¿qué puedo hacer?"
+CA-042,constitucional,consulta_usuario,Llevo dos meses esperando que me entreguen un medicamento para la tensión.
+CA-043,constitucional,consulta_usuario,Radiqué una petición en la gobernación y nunca me respondieron.
+CA-044,constitucional,consulta_usuario,El colegio expulsó a mi hija por estar embarazada.
+CA-045,constitucional,consulta_usuario,No me dejaron subir al bus por estar en silla de ruedas.
+CA-046,constitucional,consulta_usuario,Aparezco reportado en las centrales de riesgo por una deuda que no es mía.
+CA-047,constitucional,consulta_usuario,La EPS no le quiere dar los pañales a mi papá que está en cama.
+CA-048,constitucional,consulta_usuario,Mi mamá necesita una cirugía urgente y la EPS la tiene en lista de espera hace meses.
+CA-049,constitucional,consulta_usuario,En el trabajo publicaron mi historia clínica sin mi permiso.
+CA-050,constitucional,consulta_usuario,"Nos van a quitar el agua del barrio y la alcaldía no responde, ¿se puede hacer algo?"
+CA-051,civil,consulta_usuario,"Le presté dinero a mi cuñado y firmó una letra, ya se venció y no me paga."
+CA-052,civil,consulta_usuario,Le vendí mi carro a un señor y no me ha pagado lo que falta.
+CA-053,civil,consulta_usuario,El arrendador me subió el arriendo al doble sin avisar.
+CA-054,civil,consulta_usuario,Mi hermano vendió la casa de mi mamá sin que los demás herederos firmáramos.
+CA-055,civil,consulta_usuario,Un vecino construyó una pared que se mete en mi lote.
+CA-056,civil,consulta_usuario,Compré un apartamento sobre planos y la constructora no me lo entregó.
+CA-057,civil,consulta_usuario,Me quieren embargar la casa por una deuda de una tarjeta de crédito.
+CA-058,civil,consulta_usuario,Pagué un anticipo para unos muebles y el carpintero nunca los hizo.
+CA-059,civil,consulta_usuario,El dueño del local no me devuelve la plata del depósito y ya entregué las llaves.
+CA-060,civil,consulta_usuario,Me chocaron el carro parqueado y el seguro del otro no quiere responder.

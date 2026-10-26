@@ -1,0 +1,247 @@
+id,categoria,tipo,texto
+FJ-001,familia,sentencia,"SENTENCIA No. 045-2024 (simulada) – Juzgado Promiscuo de Familia. La demandante solicita la fijación de CUOTA ALIMENTARIA a favor de sus dos (2) hijos menores de edad, toda vez que el progenitor incumplió el acuerdo conciliado desde marzo de 2023 y no aporta para colegio, salud ni vestuario."
+FJ-002,familia,norma,"Art. 24 (texto adaptado). Los niños, las niñas y los adolescentes tienen derecho a los alimentos: todo lo indispensable para el sustento, habitación, vestido, asistencia médica, recreación, educación o instrucción..."
+FJ-003,familia,sentencia,"El Juzgado otorga la CUSTODIA y cuidado personal de la menor a la abuela materna, y regula un régimen de visitas para el padre cada quince (15) días, considerando el interés superior del niño!!"
+FJ-004,familia,resolucion,"Resolución / acta de conciliación: los cónyuges, de mutuo acuerdo, solicitan el divorcio y la cesación de efectos civiles del matrimonio religioso; acuerdan la liquidación de la sociedad conyugal y la cuota de alimentos de los hijos."
+FJ-005,familia,sentencia,"Se DECLARA la existencia de la unión marital de hecho entre los compañeros permanentes desde el año 2010 y, en consecuencia, la sociedad patrimonial que debe liquidarse conforme a la Ley 54 de 1990."
+FJ-006,familia,sentencia,"Proceso de impugnación de paternidad: con base en la prueba de ADN realizada por el laboratorio (probabilidad 0,00%), se declara que el demandante no es el padre biológico del menor y se ordena corregir el registro civil."
+FJ-007,familia,resolucion,La Defensoría de Familia del ICBF abre proceso administrativo de restablecimiento de derechos (PARD) a favor de un adolescente en situación de calle; se ordena ubicación en hogar sustituto y seguimiento psicosocial.
+FJ-008,familia,resolucion,Comisaría de Familia – Medida de protección provisional: se ordena al agresor abstenerse de ingresar a la vivienda familiar por hechos de violencia intrafamiliar denunciados el 12/05/2024.
+FJ-009,laboral,sentencia,"El trabajador fue DESPEDIDO sin justa causa el 30 de junio; el empleador deberá pagar la indemnización prevista en el art. 64 del Código Sustantivo del Trabajo, más los salarios y prestaciones adeudados."
+FJ-010,laboral,concepto,"Liquidación final: cesantías, intereses a las cesantías, prima de servicios y vacaciones no disfrutadas. El empleador no consignó las cesantías en el fondo antes del 14 de febrero → sanción moratoria."
+FJ-011,laboral,sentencia,"Se declara la existencia de un CONTRATO REALIDAD: hubo prestación personal del servicio, subordinación y remuneración, pese a que la empresa lo vinculó mediante contratos de prestación de servicios sucesivos."
+FJ-012,laboral,sentencia,Estabilidad laboral reforzada: la trabajadora en estado de embarazo fue desvinculada sin autorización del inspector de trabajo; se ordena el reintegro y el pago de salarios dejados de percibir.
+FJ-013,laboral,norma,"(Adaptado) Se entiende por ACOSO LABORAL toda conducta persistente y demostrable ejercida sobre un empleado por parte de un empleador, jefe o compañero, encaminada a infundir miedo, intimidación o angustia..."
+FJ-014,laboral,concepto,"Accidente de trabajo: el operario sufrió una caída en la obra; la ARL debe reconocer la incapacidad temporal y, si aplica, la pensión de invalidez. El empleador no lo había afiliado a seguridad social."
+FJ-015,laboral,concepto,"Consulta: ¿cuántas horas extra puede trabajar un empleado?? Se recuerda que la jornada máxima legal, los recargos nocturnos y dominicales deben pagarse y quedar registrados en la nómina."
+FJ-016,laboral,sentencia,"Trabajador rural (jornalero) vinculado verbalmente en finca cafetera desde 2018, con pago al día y sin afiliación a pensión; se reconoce la relación laboral y el pago de aportes al sistema pensional."
+FJ-017,penal,resolucion,"Audiencia preliminar: la Fiscalía legaliza la captura en flagrancia por HURTO calificado y agravado, formula imputación y solicita medida de aseguramiento; el imputado no acepta cargos."
+FJ-018,penal,concepto,Denuncia penal por ESTAFA: la víctima transfirió $3.500.000 a una cuenta tras un engaño por redes sociales. Se recomienda radicar la denuncia ante la Fiscalía con soportes de la transferencia.
+FJ-019,penal,sentencia,"Lesiones personales dolosas: según el dictamen de Medicina Legal, la víctima tuvo incapacidad médico-legal de 35 días con secuelas; el juez condena al procesado."
+FJ-020,penal,resolucion,"El juez de control de garantías impone medida de aseguramiento de DETENCIÓN PREVENTIVA en establecimiento carcelario, por considerar que el imputado representa peligro para la comunidad."
+FJ-021,penal,concepto,"Preacuerdo entre Fiscalía y defensa: el acusado acepta cargos a cambio de una rebaja de pena; el juez de conocimiento debe verificar que la aceptación sea libre, consciente y voluntaria."
+FJ-022,penal,norma,"Art. 233 (adaptado). Inasistencia alimentaria: quien se sustraiga sin justa causa a la prestación de alimentos legalmente debidos a sus ascendientes, descendientes... incurrirá en prisión y multa."
+FJ-023,penal,concepto,El usuario relata AMENAZAS de muerte y exigencia de dinero (extorsión) por parte de un grupo armado; se orienta a denunciar ante el GAULA y se activa ruta de protección.
+FJ-024,penal,sentencia,Incidente de reparación integral: la víctima del delito solicita indemnización de perjuicios materiales y morales; la Defensoría Pública asumió la defensa técnica del condenado.
+FJ-025,civil,sentencia,Proceso de restitución de inmueble arrendado: el arrendatario incurrió en mora en el pago de los cánones de arrendamiento de cuatro (4) meses; se ordena la entrega del inmueble al arrendador.
+FJ-026,civil,resolucion,"Proceso EJECUTIVO singular: con base en el pagaré suscrito por el deudor, se libra mandamiento de pago y se decreta el embargo y secuestro del vehículo de placas XXX-000."
+FJ-027,civil,sentencia,"Sucesión intestada: fallecido el causante sin testamento, se reconoce a los hijos como herederos, se aprueba el inventario de bienes y el trabajo de partición y adjudicación."
+FJ-028,civil,sentencia,"Declaración de pertenencia por prescripción adquisitiva extraordinaria de dominio: el demandante probó posesión pública, pacífica e ininterrumpida del predio rural por más de diez (10) años."
+FJ-029,civil,sentencia,"Responsabilidad civil extracontractual por accidente de tránsito: el conductor del bus debe indemnizar los daños y perjuicios (daño emergente, lucro cesante) causados al motociclista."
+FJ-030,civil,concepto,Compraventa de inmueble: la escritura pública debe registrarse en la Oficina de Registro de Instrumentos Públicos; el vendedor responde por el saneamiento por evicción y vicios ocultos.
+FJ-031,civil,sentencia,"Se impone SERVIDUMBRE de tránsito a favor del predio dominante, que se encuentra encerrado y sin salida a camino público, previo pago de la indemnización al dueño del predio sirviente."
+FJ-032,civil,concepto,Promesa de compraventa incumplida: el promitente comprador no pagó el saldo en la fecha pactada; procede la resolución del contrato y el cobro de la cláusula penal ($10.000.000).
+FJ-033,constitucional,sentencia,ACCIÓN DE TUTELA: la EPS negó un medicamento no incluido en el plan de beneficios a paciente con enfermedad huérfana; se amparan los derechos fundamentales a la salud y a la vida en condiciones dignas.
+FJ-034,constitucional,sentencia,Se tutela el DERECHO DE PETICIÓN: la entidad no dio respuesta de fondo dentro de los quince (15) días hábiles siguientes a la radicación de la solicitud (Ley 1755 de 2015).
+FJ-035,constitucional,sentencia,Tutela por vulneración al debido proceso: la entidad impuso la sanción sin notificar al accionante ni permitirle presentar descargos; se deja sin efectos la actuación.
+FJ-036,constitucional,sentencia,"La Corte ordena realizar CONSULTA PREVIA con la comunidad indígena antes de ejecutar el proyecto vial que afecta su territorio ancestral, en garantía de su derecho a la participación."
+FJ-037,constitucional,sentencia,Derecho a la igualdad y no discriminación: el establecimiento negó el ingreso al accionante por su orientación sexual; se ordena adoptar protocolos y ofrecer excusas públicas.
+FJ-038,constitucional,sentencia,"Mínimo vital: adulta mayor de 78 años sin ingresos, a quien Colpensiones suspendió la mesada pensional; la tutela procede como mecanismo transitorio para evitar un perjuicio irremediable."
+FJ-039,constitucional,sentencia,Habeas data: el accionante pide eliminar el reporte negativo en centrales de riesgo porque la obligación ya prescribió y nunca recibió comunicación previa al reporte.
+FJ-040,constitucional,sentencia,"Jurisdicción especial indígena: las autoridades del resguardo pueden juzgar al comunero conforme a sus usos y costumbres, siempre que no contraríen la Constitución y la ley."
+FJ-041,administrativo,resolucion,RESOLUCIÓN No. 1123 (simulada): se NIEGA el subsidio familiar de vivienda por inconsistencias en el SISBÉN. Contra la presente proceden los recursos de reposición y apelación dentro de los 10 días siguientes.
+FJ-042,administrativo,concepto,Comparendo de tránsito: el ciudadano puede solicitar audiencia de impugnación ante la Secretaría de Movilidad si considera que la orden de comparendo fue mal impuesta.
+FJ-043,administrativo,concepto,Solicitud de actualización de la encuesta SISBÉN IV: la familia cambió de domicilio y su clasificación no corresponde a su situación socioeconómica actual.
+FJ-044,administrativo,sentencia,"Medio de control de NULIDAD Y RESTABLECIMIENTO DEL DERECHO contra el acto administrativo que declaró insubsistente al servidor público, por falsa motivación y desviación de poder."
+FJ-045,administrativo,concepto,"Silencio administrativo negativo: transcurridos tres (3) meses sin que la administración resuelva la petición, se entiende negada y el interesado puede acudir a la jurisdicción."
+FJ-046,administrativo,sentencia,"Reparación directa: el Estado es responsable por falla en el servicio, al no prestar la atención médica oportuna en el hospital público; se condena al pago de perjuicios."
+FJ-047,administrativo,resolucion,Migración Colombia: trámite del Permiso por Protección Temporal (PPT) para persona migrante venezolana; se requiere registro biométrico y documento de identificación vigente o pasaporte.
+FJ-048,victimas_conflicto,norma,"(Adaptado) Se consideran VÍCTIMAS las personas que individual o colectivamente hayan sufrido un daño por hechos ocurridos a partir del 1º de enero de 1985, como consecuencia de infracciones al DIH o violaciones graves a los DD.HH. ocurridas con ocasión del conflicto armado interno."
+FJ-049,victimas_conflicto,concepto,El usuario rindió declaración ante la Personería por DESPLAZAMIENTO FORZADO desde zona rural del Cauca; se orienta sobre la inclusión en el Registro Único de Víctimas (RUV) y la ayuda humanitaria.
+FJ-050,victimas_conflicto,sentencia,Sentencia de RESTITUCIÓN DE TIERRAS: se ordena restituir jurídica y materialmente el predio a la familia campesina despojada en 2002 por presión de grupos armados ilegales.
+FJ-051,victimas_conflicto,resolucion,La Unidad para las Víctimas reconoce la INDEMNIZACIÓN ADMINISTRATIVA por homicidio del familiar y prioriza el pago por tratarse de persona mayor de 68 años.
+FJ-052,victimas_conflicto,concepto,Enfoque diferencial étnico: las medidas de reparación colectiva para el pueblo indígena deben concertarse con sus autoridades tradicionales y respetar su cosmovisión.
+FJ-053,victimas_conflicto,concepto,Búsqueda de persona dada por DESAPARECIDA en el contexto del conflicto armado: la familia puede acudir a la Unidad de Búsqueda y aportar muestras para el banco de perfiles genéticos.
+FJ-054,victimas_conflicto,resolucion,Medidas de satisfacción y garantías de no repetición: acto público de reconocimiento de responsabilidad y construcción de un lugar de memoria para la comunidad víctima de la masacre.
+FJ-055,genero,norma,"Violencia ECONÓMICA (Ley 1257/2008, art. 2): acción u omisión orientada al abuso económico, al control abusivo de las finanzas, recompensas o castigos monetarios a las mujeres por razón de su condición social, económica o política."
+FJ-056,genero,norma,"Daño PATRIMONIAL (art. 3, lit. d): pérdida, transformación, sustracción, destrucción, retención o distracción de objetos, instrumentos de trabajo, documentos personales, bienes o valores destinados a satisfacer las necesidades de la mujer."
+FJ-057,genero,concepto,La usuaria relata que su compañero le RETIENE la cédula y destruyó la máquina de coser con la que trabajaba: se orienta como violencia patrimonial y se solicita medida de protección.
+FJ-058,genero,concepto,"La usuaria manifiesta que su pareja controla todo su salario, le niega dinero para comprar alimentos y la castiga quitándole la plata si sale sin permiso → violencia económica."
+FJ-059,genero,resolucion,"Medidas de protección a la mujer víctima de violencia psicológica: se ordena al agresor abstenerse de realizar actos de intimidación, insultos o amenazas, y se remite a atención psicosocial."
+FJ-060,genero,sentencia,Tentativa de FEMINICIDIO: el agresor atacó a su expareja por razones de género tras un ciclo de violencia previo; se aplica el enfoque de género en la valoración de la prueba.
+FJ-061,genero,concepto,"Medidas de atención: la mujer víctima tiene derecho a alojamiento, alimentación y transporte para ella y sus hijos cuando su permanencia en la vivienda implique riesgo."
+FJ-062,genero,concepto,"Ruta de atención: la Comisaría de Familia recibe la denuncia por violencia de género, valora el riesgo de la mujer y la orienta hacia la Línea 155, salud y justicia."
+FJ-063,familia,sentencia,"Se fija cuota alimentaria provisional equivalente al 25 % del salario del demandado, la cual deberá consignarse los primeros cinco días de cada mes a órdenes del juzgado."
+FJ-064,familia,sentencia,"El juez aprueba el acuerdo de custodia compartida, pues ambos padres demostraron condiciones para el cuidado de la niña y residen en el mismo municipio."
+FJ-065,familia,resolucion,"La Comisaría de Familia cita a audiencia de conciliación para regular visitas, custodia y alimentos del menor, previa valoración del equipo psicosocial."
+FJ-066,familia,sentencia,"Se decreta la privación de la patria potestad por abandono del hijo durante más de cuatro años, sin aportes económicos ni contacto alguno con el menor."
+FJ-067,familia,concepto,La adopción solo procede previa declaratoria de adoptabilidad por parte del ICBF y con el consentimiento informado de los padres biológicos cuando este sea exigible.
+FJ-068,familia,sentencia,"Se ordena la exoneración de la cuota alimentaria porque el hijo cumplió 25 años, terminó sus estudios universitarios y trabaja de forma independiente."
+FJ-069,familia,resolucion,"El defensor de familia aprueba el aumento de la cuota de alimentos conforme al incremento anual del salario mínimo, según lo pactado en el acta de conciliación."
+FJ-070,familia,sentencia,Se declara la filiación extramatrimonial con base en la prueba genética y se ordena inscribir el reconocimiento en el registro civil de nacimiento.
+FJ-071,familia,concepto,"El permiso de salida del país de un menor requiere autorización de ambos padres; si uno se niega sin justificación, el otro puede pedirla ante el juez de familia."
+FJ-072,familia,sentencia,Divorcio por la causal de separación de cuerpos por más de dos años; se declara disuelta la sociedad conyugal y en estado de liquidación.
+FJ-073,familia,resolucion,Se impone al padre la obligación de asistir a terapia familiar y se suspenden temporalmente las visitas no supervisadas mientras se verifica el riesgo.
+FJ-074,familia,concepto,Los abuelos pueden ser llamados a responder por alimentos de sus nietos cuando los padres no estén en capacidad de suministrarlos.
+FJ-075,familia,sentencia,Se reconoce la unión marital de hecho entre compañeras permanentes del mismo sexo y la existencia de la sociedad patrimonial desde 2015.
+FJ-076,familia,resolucion,Medida de restablecimiento de derechos: ubicación provisional de los hermanos en hogar de paso mientras se ubica a familiares con capacidad de cuidado.
+FJ-077,familia,consulta_usuario,"El papá de mi hija no me pasa plata para el colegio ni para la comida hace como seis meses, ¿a dónde voy para que le pongan una cuota?"
+FJ-078,familia,consulta_usuario,"Me quiero divorciar pero mi esposo no quiere firmar, ¿igual se puede hacer el divorcio?"
+FJ-079,familia,consulta_usuario,"Mi expareja no me deja ver a mi hijo los fines de semana aunque yo pago la cuota, ¿qué puedo hacer?"
+FJ-080,familia,consulta_usuario,"Vivimos juntos 8 años sin casarnos y él se fue con otra, ¿tengo derecho a la mitad de la casa?"
+FJ-081,familia,consulta_usuario,¿Puedo sacar a mi niño del país de vacaciones si el papá no da el permiso?
+FJ-082,familia,consulta_usuario,"Mi suegra tiene a mis nietos y no me los quiere devolver, ¿quién decide con quién se quedan?"
+FJ-083,familia,consulta_usuario,"Quiero hacerle la prueba de ADN a un niño que dicen que es mío, ¿cómo pido eso?"
+FJ-084,familia,consulta_usuario,"El papá de mis hijos dice que ya no les paga porque perdió el trabajo, ¿le pueden bajar la cuota?"
+FJ-085,familia,consulta_usuario,¿Cómo hago para que el ICBF revise el caso de una niña vecina que dejan sola todo el día?
+FJ-086,laboral,sentencia,"Se condena al empleador al pago de la indemnización moratoria por no cancelar salarios y prestaciones a la terminación del contrato, al no demostrar buena fe."
+FJ-087,laboral,concepto,El trabajador con contrato a término fijo despedido antes del vencimiento tiene derecho a los salarios correspondientes al tiempo que faltare para cumplir el plazo pactado.
+FJ-088,laboral,sentencia,Se declara ineficaz el despido de trabajador en situación de discapacidad sin autorización del Ministerio del Trabajo y se ordena su reintegro.
+FJ-089,laboral,resolucion,El inspector de trabajo sanciona a la empresa por no afiliar a sus trabajadores al sistema de riesgos laborales ni entregar elementos de protección personal.
+FJ-090,laboral,concepto,Las vacaciones corresponden a quince días hábiles consecutivos remunerados por cada año de servicios y pueden compensarse en dinero solo en los casos previstos por la ley.
+FJ-091,laboral,sentencia,Se reconoce la pensión de sobrevivientes a la compañera permanente que demostró convivencia con el afiliado fallecido durante los últimos cinco años.
+FJ-092,laboral,concepto,El periodo de prueba debe constar por escrito y no puede exceder de dos meses; durante ese lapso cualquiera de las partes puede terminar el contrato sin previo aviso.
+FJ-093,laboral,sentencia,El comité de convivencia laboral no tramitó la queja por acoso dentro del término; se ordena a la empresa adoptar medidas correctivas y garantizar la no repetición.
+FJ-094,laboral,resolucion,Se archiva la querella administrativa por cuanto el empleador acreditó el pago de las cesantías e intereses en el fondo elegido por la trabajadora.
+FJ-095,laboral,sentencia,"Se declara la existencia de contrato de trabajo con plataforma de domicilios, al probarse subordinación mediante sanciones y asignación de turnos por la aplicación."
+FJ-096,laboral,concepto,"El trabajo en días de descanso obligatorio se remunera con recargo y, si es habitual, el trabajador tiene derecho a un día de descanso compensatorio."
+FJ-097,laboral,sentencia,"Se condena a la empresa usuaria y a la de servicios temporales, de forma solidaria, por haber mantenido al trabajador en misión por más de un año."
+FJ-098,laboral,resolucion,Autorización de despido negada: la entidad no demostró una causa objetiva distinta al estado de salud del trabajador con fuero.
+FJ-099,laboral,concepto,"La licencia de maternidad es de dieciocho semanas remuneradas y la de paternidad de dos semanas, a cargo del sistema de salud."
+FJ-100,laboral,consulta_usuario,"Me echaron del trabajo sin decirme por qué y no me han pagado la liquidación, ¿qué hago?"
+FJ-101,laboral,consulta_usuario,"Trabajo en una finca desde hace tres años sin contrato escrito y nunca me han pagado prima, ¿tengo derecho?"
+FJ-102,laboral,consulta_usuario,"Mi jefe me grita delante de todos y me pone trabajos imposibles para que renuncie, ¿eso es acoso laboral?"
+FJ-103,laboral,consulta_usuario,"Estoy embarazada y me dijeron que no me renuevan el contrato, ¿eso es legal?"
+FJ-104,laboral,consulta_usuario,"Me accidenté en la obra y el patrón no me tenía afiliado a la ARL, ¿quién me paga la incapacidad?"
+FJ-105,laboral,consulta_usuario,"Trabajo de domingo a domingo y solo me pagan el mínimo, ¿me deben pagar algo extra?"
+FJ-106,laboral,consulta_usuario,"Renuncié hace dos meses y la empresa no me ha consignado las cesantías, ¿puedo cobrarles intereses?"
+FJ-107,laboral,consulta_usuario,"Soy venezolano y trabajo en un restaurante sin papeles, ¿igual tengo derechos laborales?"
+FJ-108,laboral,consulta_usuario,"Me hicieron firmar contratos de prestación de servicios pero cumplo horario y tengo jefe, ¿es legal?"
+FJ-109,penal,sentencia,"Se condena por el delito de homicidio agravado a la pena de 400 meses de prisión, al probarse que el procesado actuó con sevicia y en estado de indefensión de la víctima."
+FJ-110,penal,resolucion,"La Fiscalía archiva la noticia criminal por atipicidad de la conducta, pues los hechos denunciados corresponden a un incumplimiento contractual."
+FJ-111,penal,sentencia,"Se absuelve al acusado por duda razonable, ya que los testimonios de cargo resultaron contradictorios respecto de la hora y el lugar de los hechos."
+FJ-112,penal,concepto,"La víctima tiene derecho a ser informada de las actuaciones, a intervenir en el proceso penal y a obtener reparación integral de los perjuicios causados."
+FJ-113,penal,sentencia,Se condena por tráfico de estupefacientes; el juez niega la prisión domiciliaria por la cantidad de sustancia incautada y la existencia de antecedentes.
+FJ-114,penal,resolucion,"Se decreta la libertad por vencimiento de términos, al haber transcurrido más de 120 días sin que se presentara escrito de acusación."
+FJ-115,penal,sentencia,El tribunal confirma la condena por acceso carnal abusivo con menor de catorce años y ordena la atención psicológica integral de la víctima.
+FJ-116,penal,concepto,"La querella es requisito de procedibilidad en delitos como la injuria, la calumnia y las lesiones personales leves, y admite conciliación previa."
+FJ-117,penal,sentencia,Se condena por falsedad en documento privado a quien alteró la fecha de una letra de cambio para cobrar intereses no pactados.
+FJ-118,penal,resolucion,El juez de control de garantías declara ilegal la captura por no haberse leído los derechos del capturado al momento de la aprehensión.
+FJ-119,penal,sentencia,Se aplica el principio de oportunidad en favor del imputado que reparó integralmente a la víctima del hurto y no registra antecedentes.
+FJ-120,penal,concepto,La prescripción de la acción penal impide continuar la investigación cuando ha transcurrido el término máximo de la pena fijada por la ley para el delito.
+FJ-121,penal,sentencia,Condena por violencia contra servidor público: el procesado agredió al agente de tránsito que le impuso un comparendo.
+FJ-122,penal,resolucion,Se imputan cargos por concierto para delinquir y extorsión a tres integrantes de una banda que cobraba vacunas a comerciantes del barrio.
+FJ-123,penal,consulta_usuario,"Me robaron el celular en el bus y quiero denunciar, ¿lo puedo hacer por internet?"
+FJ-124,penal,consulta_usuario,"Un señor me estafó vendiéndome una moto que no era de él, ¿qué pasos sigo para que lo judicialicen?"
+FJ-125,penal,consulta_usuario,"A mi hermano lo capturaron anoche y no sabemos dónde está, ¿le tienen que dar abogado?"
+FJ-126,penal,consulta_usuario,"Me están llamando a cobrar vacuna para dejarme trabajar en el local, ¿a quién aviso sin que se enteren?"
+FJ-127,penal,consulta_usuario,"El vecino me pegó y tengo incapacidad de 12 días, ¿eso es delito o toca conciliar?"
+FJ-128,penal,consulta_usuario,"Publicaron en redes que yo soy ladrón y es mentira, ¿puedo denunciar por calumnia?"
+FJ-129,penal,consulta_usuario,"Me llegó una citación de la Fiscalía como indiciado y no sé por qué, ¿qué hago?"
+FJ-130,penal,consulta_usuario,"Mi hijo de 16 años fue detenido por porte de droga, ¿lo juzgan como adulto?"
+FJ-131,penal,consulta_usuario,"Me hackearon la cuenta del banco y sacaron plata, ¿eso se denuncia en la Fiscalía?"
+FJ-132,civil,sentencia,"Se declara la nulidad relativa del contrato de compraventa por vicio del consentimiento, al probarse que el vendedor ocultó el embargo que pesaba sobre el inmueble."
+FJ-133,civil,resolucion,Se admite la demanda de pertenencia y se ordena el emplazamiento de las personas indeterminadas que se crean con derecho sobre el predio.
+FJ-134,civil,sentencia,"Se condena al constructor a reparar los defectos estructurales de la vivienda, en virtud de la garantía legal de estabilidad de la obra."
+FJ-135,civil,concepto,El contrato de arrendamiento de vivienda urbana se entiende prorrogado en iguales condiciones si ninguna de las partes da aviso de terminación con la antelación legal.
+FJ-136,civil,sentencia,Se ordena el levantamiento del embargo sobre la cuenta de nómina por cuanto el salario mínimo es inembargable salvo para alimentos o cooperativas.
+FJ-137,civil,resolucion,Se decreta la apertura de la sucesión testada y se reconoce al cónyuge sobreviviente su porción conyugal.
+FJ-138,civil,sentencia,Se declara la responsabilidad civil del colegio por el accidente sufrido por un estudiante en la piscina sin vigilancia adecuada.
+FJ-139,civil,concepto,La letra de cambio es un título valor que presta mérito ejecutivo y su acción cambiaria directa prescribe en tres años desde el vencimiento.
+FJ-140,civil,sentencia,"Se resuelve el contrato de obra por incumplimiento del contratista, quien recibió el anticipo y abandonó los trabajos sin justificación."
+FJ-141,civil,resolucion,Proceso de insolvencia de persona natural no comerciante: se admite la solicitud y se suspenden los procesos ejecutivos en curso contra el deudor.
+FJ-142,civil,sentencia,"Se condena a la empresa de mudanzas a indemnizar los daños de los muebles transportados, al no demostrar diligencia en el embalaje."
+FJ-143,civil,concepto,El poseedor de buena fe que construyó mejoras útiles en predio ajeno tiene derecho a que se le reconozca su valor al momento de la restitución.
+FJ-144,civil,sentencia,Se declara la simulación absoluta de la venta que el deudor hizo a su hermano para sustraer el inmueble de la persecución de sus acreedores.
+FJ-145,civil,resolucion,Se aprueba el avalúo y se fija fecha de remate del vehículo embargado dentro del proceso ejecutivo hipotecario.
+FJ-146,civil,consulta_usuario,"El dueño del apartamento no me quiere devolver el depósito aunque entregué todo bien, ¿qué hago?"
+FJ-147,civil,consulta_usuario,"Le presté plata a un amigo con una letra y no me quiere pagar, ¿cómo lo demando?"
+FJ-148,civil,consulta_usuario,"Mi papá murió sin testamento y mis hermanos no quieren repartir la casa, ¿cómo se hace la sucesión?"
+FJ-149,civil,consulta_usuario,"Compré un lote con promesa de compraventa y el vendedor no quiere hacer la escritura, ¿puedo obligarlo?"
+FJ-150,civil,consulta_usuario,"Un carro me chocó la moto y el conductor no quiere pagar los daños, ¿lo puedo demandar?"
+FJ-151,civil,consulta_usuario,"Llevo 15 años viviendo en un terreno que no tiene dueño conocido, ¿puedo quedarme con él?"
+FJ-152,civil,consulta_usuario,"Me embargaron la cuenta donde me pagan el sueldo, ¿eso se puede?"
+FJ-153,civil,consulta_usuario,"El inquilino lleva tres meses sin pagar el arriendo y no se quiere ir, ¿cómo lo saco?"
+FJ-154,civil,consulta_usuario,"Debo mucha plata a varios bancos y no puedo pagar, ¿existe algo para negociar todas las deudas?"
+FJ-155,constitucional,sentencia,"Se ampara el derecho a la educación de una estudiante a la que el colegio negó la matrícula por deudas de pensión, ordenando su reintegro inmediato."
+FJ-156,constitucional,sentencia,La tutela procede para proteger el derecho a la salud de un menor con discapacidad al que la EPS negó el servicio de transporte para sus terapias.
+FJ-157,constitucional,sentencia,"Se niega la tutela por improcedente, pues el accionante cuenta con el proceso ordinario laboral para reclamar el pago de sus acreencias."
+FJ-158,constitucional,sentencia,Se tutela el derecho a la intimidad: el empleador divulgó el diagnóstico médico de la trabajadora en un grupo de mensajería de la empresa.
+FJ-159,constitucional,concepto,"La acción de tutela puede ser presentada por cualquier persona, sin necesidad de abogado, y el juez debe decidirla en un término máximo de diez días."
+FJ-160,constitucional,sentencia,"Se ordena a la alcaldía garantizar el acceso al agua potable de una comunidad rural, por tratarse de un derecho fundamental en conexidad con la vida digna."
+FJ-161,constitucional,sentencia,La Corte protege el derecho al libre desarrollo de la personalidad del estudiante sancionado por llevar el cabello largo.
+FJ-162,constitucional,concepto,El incidente de desacato procede cuando la autoridad o el particular incumple la orden de tutela y puede acarrear arresto y multa.
+FJ-163,constitucional,sentencia,Se ampara el derecho a la consulta previa del consejo comunitario afrodescendiente afectado por la licencia de explotación minera.
+FJ-164,constitucional,sentencia,Se protege el derecho a la libertad religiosa del trabajador al que se negó el permiso para no laborar en su día de culto.
+FJ-165,constitucional,concepto,"La acción popular protege derechos colectivos como el ambiente sano y el espacio público, y puede ser interpuesta por cualquier ciudadano."
+FJ-166,constitucional,sentencia,Se ampara el derecho a la identidad de género y se ordena a la Registraduría corregir el componente de sexo en la cédula de la accionante.
+FJ-167,constitucional,sentencia,Se tutela el derecho a la salud mental: la EPS deberá autorizar el tratamiento psiquiátrico ordenado por el médico tratante.
+FJ-168,constitucional,concepto,El habeas corpus protege la libertad personal frente a capturas ilegales y debe resolverse dentro de las treinta y seis horas siguientes.
+FJ-169,constitucional,consulta_usuario,"La EPS no me quiere autorizar una cirugía que me mandó el especialista, ¿puedo poner una tutela?"
+FJ-170,constitucional,consulta_usuario,Mandé un derecho de petición a la alcaldía hace un mes y no me han contestado nada.
+FJ-171,constitucional,consulta_usuario,"En el colegio no dejan entrar a mi hijo porque debemos dos meses de pensión, ¿eso se puede?"
+FJ-172,constitucional,consulta_usuario,"Salgo reportado en Datacrédito por una deuda que ya pagué hace años, ¿cómo me borran?"
+FJ-173,constitucional,consulta_usuario,"Colpensiones lleva un año sin resolverme la pensión y no tengo con qué vivir, ¿sirve una tutela?"
+FJ-174,constitucional,consulta_usuario,"Ganamos una tutela pero la EPS no ha cumplido, ¿qué más se puede hacer?"
+FJ-175,constitucional,consulta_usuario,"Van a hacer una carretera por el resguardo y nadie nos ha consultado, ¿tenemos derechos?"
+FJ-176,constitucional,consulta_usuario,"Me negaron la entrada a una discoteca por mi color de piel, ¿puedo demandar?"
+FJ-177,constitucional,consulta_usuario,"A mi primo lo tienen detenido sin orden de captura desde ayer, ¿qué recurso existe?"
+FJ-178,administrativo,resolucion,Se impone sanción disciplinaria de suspensión al servidor que omitió dar trámite a los derechos de petición asignados durante tres meses.
+FJ-179,administrativo,sentencia,"Se declara la nulidad del acto que negó la pensión gracia a la docente, al demostrarse veinte años de servicio en el sector oficial."
+FJ-180,administrativo,resolucion,La Secretaría de Planeación niega la licencia de construcción por no cumplir los retiros exigidos en el plan de ordenamiento territorial.
+FJ-181,administrativo,concepto,"Contra los actos administrativos de carácter particular proceden los recursos de reposición, apelación y queja, dentro de los diez días siguientes a su notificación."
+FJ-182,administrativo,sentencia,Se condena al municipio por los daños causados a la vivienda por la caída de un árbol que no había sido podado pese a los reportes de la comunidad.
+FJ-183,administrativo,resolucion,Migración Colombia otorga salvoconducto de permanencia mientras se resuelve la solicitud de refugio presentada por la ciudadana extranjera.
+FJ-184,administrativo,concepto,La revocatoria directa permite a la administración retirar sus propios actos cuando sean contrarios a la Constitución o causen un agravio injustificado.
+FJ-185,administrativo,sentencia,Se declara la responsabilidad del Estado por privación injusta de la libertad del ciudadano absuelto tras dos años de detención preventiva.
+FJ-186,administrativo,resolucion,Se liquida el impuesto predial con base en el nuevo avalúo catastral; el contribuyente podrá presentar recurso de reconsideración.
+FJ-187,administrativo,sentencia,"Se anula la elección del concejal por inhabilidad, al haber celebrado contratos con el municipio dentro del año anterior a la elección."
+FJ-188,administrativo,concepto,"El servicio militar obligatorio admite exenciones, entre otras, para víctimas del conflicto armado y para quienes sean hijos únicos que velan por sus padres."
+FJ-189,administrativo,resolucion,La Superintendencia de Servicios Públicos ordena a la empresa de energía reliquidar la factura por cobro de consumo no facturado sin soporte técnico.
+FJ-190,administrativo,sentencia,Se condena a la entidad contratante a pagar las obras adicionales ejecutadas por el contratista con autorización expresa de la interventoría.
+FJ-191,administrativo,resolucion,Se otorga la nacionalidad colombiana por adopción al ciudadano que acreditó cinco años de domicilio continuo en el país.
+FJ-192,administrativo,consulta_usuario,"Me pusieron un comparendo con fotomulta pero el carro ya no era mío, ¿cómo la quito?"
+FJ-193,administrativo,consulta_usuario,"Me sacaron del Sisbén y perdí el subsidio, ¿cómo reclamo?"
+FJ-194,administrativo,consulta_usuario,Soy venezolana y quiero saber cómo saco el permiso por protección temporal para trabajar.
+FJ-195,administrativo,consulta_usuario,"La empresa de energía me cobró una factura altísima que no corresponde, ¿a dónde me quejo?"
+FJ-196,administrativo,consulta_usuario,"Una ambulancia del hospital público se demoró 3 horas y mi papá murió, ¿se puede demandar al Estado?"
+FJ-197,administrativo,consulta_usuario,"Me negaron la libreta militar y necesito para trabajar, soy víctima del conflicto, ¿me la deben dar gratis?"
+FJ-198,administrativo,consulta_usuario,"La alcaldía me negó el permiso para mi negocio sin explicar por qué, ¿puedo apelar?"
+FJ-199,administrativo,consulta_usuario,"Salí elegido en un concurso de méritos y no me han nombrado, ¿qué puedo hacer?"
+FJ-200,administrativo,consulta_usuario,"Quiero pedir refugio en Colombia porque en mi país me persiguen, ¿cómo es el trámite?"
+FJ-201,victimas_conflicto,sentencia,Se ordena la restitución del predio a la comunidad campesina y se compensa al segundo ocupante de buena fe exenta de culpa.
+FJ-202,victimas_conflicto,resolucion,Se incluye en el Registro Único de Víctimas al núcleo familiar desplazado de la vereda por amenazas de un grupo armado ilegal.
+FJ-203,victimas_conflicto,concepto,"Las medidas de reparación integral comprenden restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición."
+FJ-204,victimas_conflicto,resolucion,Se niega la inclusión en el RUV por extemporaneidad; la declarante podrá interponer recurso de reposición y en subsidio apelación.
+FJ-205,victimas_conflicto,sentencia,La Corte ordena a la Unidad para las Víctimas valorar nuevamente la declaración de la mujer indígena con enfoque diferencial y sin exigir pruebas imposibles.
+FJ-206,victimas_conflicto,concepto,"Las víctimas de minas antipersonal tienen derecho a atención en salud, rehabilitación física y psicológica, y a indemnización administrativa."
+FJ-207,victimas_conflicto,resolucion,Se entrega atención humanitaria de emergencia para alimentación y alojamiento temporal a familia desplazada recién llegada al municipio.
+FJ-208,victimas_conflicto,sentencia,Se reconoce el daño colectivo sufrido por el pueblo indígena por el confinamiento y se ordena un plan de reparación concertado.
+FJ-209,victimas_conflicto,concepto,"Los niños, niñas y adolescentes desvinculados de grupos armados son considerados víctimas y tienen derecho a medidas de protección especial."
+FJ-210,victimas_conflicto,resolucion,La Jurisdicción Especial para la Paz acredita como víctimas a los familiares de personas presentadas como bajas en combate.
+FJ-211,victimas_conflicto,sentencia,"Se ordena al Estado priorizar el retorno de las familias desplazadas, con garantías de seguridad, voluntariedad y dignidad."
+FJ-212,victimas_conflicto,concepto,La Comisión de la Verdad recogió testimonios de víctimas del exilio y recomendó medidas para su reconocimiento y retorno.
+FJ-213,victimas_conflicto,resolucion,Se otorga crédito de vivienda rural con subsidio a víctima restituida para la reconstrucción de su casa en el predio retornado.
+FJ-214,victimas_conflicto,sentencia,Se condena al Estado por omisión en la protección de líderes sociales amenazados que habían solicitado medidas ante la Unidad Nacional de Protección.
+FJ-215,victimas_conflicto,consulta_usuario,"Nos sacaron de la finca hace años los paramilitares, ¿todavía podemos declarar como desplazados?"
+FJ-216,victimas_conflicto,consulta_usuario,"Ya estoy en el registro de víctimas pero nunca me han dado la indemnización, ¿cuándo me pagan?"
+FJ-217,victimas_conflicto,consulta_usuario,"A mi papá lo desaparecieron en los noventa, ¿dónde puedo pedir que lo busquen?"
+FJ-218,victimas_conflicto,consulta_usuario,"Somos de un resguardo y el grupo armado no nos deja salir, ¿a quién acudimos?"
+FJ-219,victimas_conflicto,consulta_usuario,"Quiero recuperar la tierra que nos quitaron en el conflicto, ¿cómo inicio el proceso de restitución?"
+FJ-220,victimas_conflicto,consulta_usuario,"Mi hijo pisó una mina en la vereda, ¿qué ayudas existen para él?"
+FJ-221,victimas_conflicto,consulta_usuario,"Me amenazaron por ser líder comunal, ¿cómo pido protección?"
+FJ-222,victimas_conflicto,consulta_usuario,"Me negaron la inclusión como víctima porque dicen que declaré tarde, ¿puedo apelar?"
+FJ-223,victimas_conflicto,consulta_usuario,"Llegamos desplazados a Barranquilla y no tenemos dónde dormir, ¿hay ayuda de emergencia?"
+FJ-224,genero,sentencia,Se condena por violencia intrafamiliar agravada al compañero que agredió física y verbalmente a la mujer en presencia de sus hijos menores.
+FJ-225,genero,resolucion,La Comisaría ordena el desalojo del agresor de la vivienda y la prohibición de acercarse a la víctima a menos de doscientos metros.
+FJ-226,genero,concepto,"La violencia psicológica incluye conductas de intimidación, humillación, aislamiento o control que afectan la salud mental de la mujer."
+FJ-227,genero,sentencia,"Se aplica la perspectiva de género en la valoración de la prueba, dando credibilidad al testimonio de la víctima ante la ausencia de testigos directos."
+FJ-228,genero,resolucion,"Se otorgan medidas de atención: alojamiento temporal, alimentación y transporte para la mujer víctima y sus dos hijos."
+FJ-229,genero,concepto,El acoso sexual se configura cuando una persona aprovecha su superioridad o relación de autoridad para asediar a otra con fines sexuales no consentidos.
+FJ-230,genero,sentencia,Se condena por feminicidio agravado: el agresor asesinó a su expareja tras un historial de amenazas y controles sobre su vida cotidiana.
+FJ-231,genero,resolucion,"Se ordena al agresor devolver los documentos de identidad y el celular retenidos a la mujer, como medida frente a la violencia patrimonial."
+FJ-232,genero,concepto,"La violencia económica se presenta cuando se controla el dinero de la mujer, se le impide trabajar o se le condiciona el acceso a recursos básicos."
+FJ-233,genero,sentencia,"La Corte reprocha a la Comisaría por sugerir conciliación entre víctima y agresor en un caso de violencia intrafamiliar, lo cual está prohibido."
+FJ-234,genero,resolucion,"Se remite a la víctima de violencia sexual a la ruta de atención en salud para atención integral, anticoncepción de emergencia y profilaxis."
+FJ-235,genero,concepto,"La Línea 155 brinda orientación telefónica gratuita a mujeres víctimas de violencia en todo el territorio nacional, las 24 horas."
+FJ-236,genero,sentencia,Se protege a la trabajadora que denunció acoso sexual de su supervisor y se ordena a la empresa aplicar el protocolo de prevención.
+FJ-237,genero,resolucion,Medida de protección provisional por amenazas de muerte enviadas por mensajes de texto por el excompañero sentimental.
+FJ-238,genero,consulta_usuario,"Mi pareja me revisa el celular, no me deja salir con amigas y me insulta todo el tiempo, ¿eso es violencia?"
+FJ-239,genero,consulta_usuario,"Mi esposo me quitó la cédula y no me deja trabajar para que dependa de él, ¿qué puedo hacer?"
+FJ-240,genero,consulta_usuario,"Mi ex me amenaza con publicar fotos íntimas si no vuelvo con él, ¿lo puedo denunciar?"
+FJ-241,genero,consulta_usuario,"Me pegó delante de los niños y me da miedo volver a la casa, ¿a dónde puedo ir con ellos?"
+FJ-242,genero,consulta_usuario,Mi marido maneja toda la plata y no me da para la comida si no hago lo que él dice.
+FJ-243,genero,consulta_usuario,El supervisor me manda mensajes con insinuaciones y me dice que si no salgo con él me despide.
+FJ-244,genero,consulta_usuario,"Fui a la comisaría y me dijeron que mejor conciliara con él, ¿eso está bien?"
+FJ-245,genero,consulta_usuario,"Mi expareja rompió mis herramientas de trabajo y se llevó mis papeles, ¿qué tipo de violencia es?"
+FJ-246,genero,consulta_usuario,"Necesito hablar con alguien ya, él está afuera de la casa gritando que me va a matar."

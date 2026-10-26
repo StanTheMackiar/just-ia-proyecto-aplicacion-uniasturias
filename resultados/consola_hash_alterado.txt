@@ -1,0 +1,4 @@
+$ echo " " >> modelos/beto_justia_v2.0.0/ficha.json   # se altera el modelo registrado
+$ python mvp/justia.py "Me despidieron sin justa causa"
+ALERTA: el modelo cambio despues de registrarse (hash distinto). No se usa.
+(codigo de salida: 1)

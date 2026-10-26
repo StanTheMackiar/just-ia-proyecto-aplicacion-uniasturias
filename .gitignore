@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales y variables de entorno
+.venv/
+venv/
+.env
+.env.*
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales de Office (ej. ~$bitacora.xlsx)
+~$*
+
+# Documento de entrega (se sube aparte a la plataforma)
+*.docx
+
+# Modelos entrenados (pesan cientos de MB)
+modelos/

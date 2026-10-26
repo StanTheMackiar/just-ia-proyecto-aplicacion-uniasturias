@@ -1,0 +1,53 @@
+==============================================================================
+Consulta : Me despidieron estando incapacitado y no me pagaron las vacaciones
+Top 3    : laboral 96.6% | civil 0.8% | administrativo 0.7%
+A favor  : [('vacaciones', 0.034), ('despidieron', 0.027), ('estando', 0.005)]
+Decision : SUGERENCIA_PARA_VALIDAR  (traza JIA-20261026-67b2d0, v2.0.0 efd234af30897470)
+Por que  : Se sugiere laboral con 96.6% (umbral 70%). Lo que mas pesa hacia esa area: 'vacaciones', 'despidieron', 'estando'.
+==============================================================================
+Consulta : Mi exmarido no me deja ver a los niños y tampoco paga la cuota
+Top 3    : familia 83.6% | genero 12.3% | victimas_conflicto 1.0%
+A favor  : [('cuota', 0.783), ('niños', 0.537), ('paga', 0.047)]
+Decision : SUGERENCIA_PARA_VALIDAR  (traza JIA-20261026-adc973, v2.0.0 efd234af30897470)
+Por que  : Se sugiere familia con 83.6% (umbral 70%). Lo que mas pesa hacia esa area: 'cuota', 'niños', 'paga'.
+==============================================================================
+Consulta : La Fiscalía legalizó la captura del sospechoso del atraco
+Top 3    : penal 98.2% | civil 0.5% | constitucional 0.3%
+A favor  : [('Fiscalía', 0.007)]
+Decision : SUGERENCIA_PARA_VALIDAR  (traza JIA-20261026-1d21ef, v2.0.0 efd234af30897470)
+Por que  : Se sugiere penal con 98.2% (umbral 70%). Lo que mas pesa hacia esa area: 'Fiscalía'.
+==============================================================================
+Consulta : Nos desplazaron de la vereda y queremos volver a nuestra tierra
+Top 3    : victimas_conflicto 96.2% | administrativo 1.5% | familia 0.5%
+A favor  : [('desplazaron', 0.142), ('vereda', 0.059), ('nuestra', 0.04), ('tierra', 0.024), ('queremos', 0.006)]
+Decision : SUGERENCIA_PARA_VALIDAR  (traza JIA-20261026-193ef1, v2.0.0 efd234af30897470)
+Por que  : Se sugiere victimas_conflicto con 96.2% (umbral 70%). Lo que mas pesa hacia esa area: 'desplazaron', 'vereda', 'nuestra'.
+==============================================================================
+Consulta : Él controla mi plata y me quitó la tarjeta del banco
+Top 3    : genero 85.7% | civil 7.6% | penal 1.9%
+A favor  : [('controla', 0.289), ('tarjeta', 0.215), ('plata', 0.072), ('banco', 0.032)]
+ALERTA   : VIOLENCIA_ECONOMICA -> Posible violencia economica (Ley 1257 de 2008): revisar en el area de genero.
+Decision : REVISION_MANUAL  (traza JIA-20261026-6adec2, v2.0.0 efd234af30897470)
+Por que  : Se sugiere genero con 85.7% (umbral 70%). Lo que mas pesa hacia esa area: 'controla', 'tarjeta', 'plata'.
+==============================================================================
+Consulta : Me llamo Carlos Pérez, cédula 1045678901, celular 300 123 4567. Me echaron sin pagarme la liquidación
+Anonimiz.: Me llamo [NOMBRE], cédula [DOCUMENTO], celular [TELEFONO]. Me echaron sin pagarme la liquidación
+Top 3    : constitucional 42.6% | laboral 27.9% | civil 16.7%
+A favor  : [('celular', 0.245), ('echaron', 0.163), ('DOCUMENTO', 0.113), ('llamo', 0.082), ('cédula', 0.07)]
+Decision : REVISION_MANUAL  (traza JIA-20261026-04c2f3, v2.0.0 efd234af30897470)
+Por que  : Se sugiere constitucional con 42.6% (umbral 70%). Lo que mas pesa hacia esa area: 'celular', 'echaron', 'DOCUMENTO'.
+==============================================================================
+Consulta : Necesito ayuda ya, mi expareja está afuera de la casa gritando que me va a matar
+Top 3    : genero 97.1% | familia 0.7% | penal 0.6%
+A favor  : [('expareja', 0.028), ('casa', 0.01)]
+ALERTA   : URGENCIA -> Posible riesgo inminente: atencion humana inmediata, Linea 155 o 123.
+Decision : ATENCION_INMEDIATA  (traza JIA-20261026-84e2e6, v2.0.0 efd234af30897470)
+Por que  : Se sugiere genero con 97.1% (umbral 70%). Lo que mas pesa hacia esa area: 'expareja', 'casa'.
+==============================================================================
+Consulta : ¿Cuál es el mejor celular para comprar este año?
+Top 3    : constitucional 44.6% | administrativo 41.9% | familia 7.4%
+A favor  : [('este', 0.401), ('mejor', 0.37), ('celular', 0.217), ('comprar', 0.161)]
+Decision : REVISION_MANUAL  (traza JIA-20261026-62674b, v2.0.0 efd234af30897470)
+Por que  : Se sugiere constitucional con 44.6% (umbral 70%). Lo que mas pesa hacia esa area: 'este', 'mejor', 'celular'.
+
+Trazas guardadas en trazas/trazas_justia.jsonl

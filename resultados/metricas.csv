@@ -1,0 +1,3 @@
+conjunto,casos,accuracy,f1_macro,cobertura_umbral,errores_atajados
+prueba_U2,50,0.88,0.873,0.84,4/6
+prueba_ciega,40,0.75,0.733,0.875,2/10

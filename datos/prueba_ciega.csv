@@ -1,0 +1,41 @@
+id,categoria,tipo,texto
+PC-001,familia,consulta_usuario,Mi exesposo no ha vuelto a pagar la cuota de los niños desde que se fue a vivir con otra.
+PC-002,familia,consulta_usuario,Quiero la custodia de mi nieto porque la mamá lo deja solo para irse de fiesta.
+PC-003,familia,consulta_usuario,¿Cómo hago para que mi hijo lleve el apellido del papá si él nunca lo reconoció?
+PC-004,familia,consulta_usuario,"Mi esposa y yo queremos separarnos de mutuo acuerdo, ¿qué papeles necesitamos?"
+PC-005,familia,consulta_usuario,El papá de mi hijo se lo llevó a otra ciudad sin avisarme.
+PC-006,laboral,consulta_usuario,Llevo cuatro meses sin que me paguen el sueldo en la empresa de seguridad.
+PC-007,laboral,consulta_usuario,Me tienen trabajando doce horas diarias y no me reconocen horas extra.
+PC-008,laboral,consulta_usuario,Me echaron porque me enfermé y estaba con incapacidad.
+PC-009,laboral,consulta_usuario,La empresa no me ha pagado la prima de diciembre.
+PC-010,laboral,consulta_usuario,Trabajo como empleada doméstica y nunca me han afiliado a salud ni pensión.
+PC-011,penal,consulta_usuario,Anoche me atracaron dos tipos en moto y me quitaron el celular.
+PC-012,penal,consulta_usuario,"Un señor me engañó con un falso arriendo, le consigné el depósito y ya no contesta."
+PC-013,penal,consulta_usuario,A mi hijo lo capturaron y no sabemos en qué estación lo tienen.
+PC-014,penal,consulta_usuario,"Me quemaron la moto por venganza después de una pelea, ¿es delito?"
+PC-015,penal,consulta_usuario,"La policía encontró a mi vecino con armas en la casa, ¿qué le puede pasar?"
+PC-016,civil,consulta_usuario,Mi inquilino se fue debiendo cuatro meses de arriendo y los servicios.
+PC-017,civil,consulta_usuario,Firmé una promesa de compraventa de una finca y el dueño ya se la vendió a otro.
+PC-018,civil,consulta_usuario,"Mi papá falleció y dejó una casa, ¿cómo hacemos para pasarla a nombre de los hijos?"
+PC-019,civil,consulta_usuario,"Le presté mi carro a un amigo, lo chocó y no quiere pagar el arreglo."
+PC-020,civil,consulta_usuario,"Me cobran una deuda de hace más de diez años, ¿todavía me pueden demandar?"
+PC-021,constitucional,consulta_usuario,La EPS no me quiere autorizar la quimioterapia que ordenó el oncólogo.
+PC-022,constitucional,consulta_usuario,Pasé un derecho de petición al hospital hace un mes y no me han respondido.
+PC-023,constitucional,consulta_usuario,La universidad no me deja graduar por una deuda de la cafetería.
+PC-024,constitucional,consulta_usuario,Me negaron el tratamiento de mi hijo autista porque no está en el plan de salud.
+PC-025,constitucional,consulta_usuario,La alcaldía publicó mis datos personales en una lista en internet sin autorización.
+PC-026,administrativo,consulta_usuario,Me llegó una multa de tránsito de una ciudad donde nunca he estado.
+PC-027,administrativo,consulta_usuario,La alcaldía me cerró el negocio sin darme oportunidad de defenderme.
+PC-028,administrativo,consulta_usuario,Quiero reclamar porque catastro le subió muchísimo el avalúo a mi casa.
+PC-029,administrativo,consulta_usuario,La empresa del agua me cobró una reconexión que no corresponde.
+PC-030,administrativo,consulta_usuario,Gané el concurso de la DIAN y no me han posesionado.
+PC-031,victimas_conflicto,consulta_usuario,A mi familia la sacaron de la vereda unos armados y llegamos sin nada a la ciudad.
+PC-032,victimas_conflicto,consulta_usuario,"Mi papá fue asesinado por la guerrilla en 1998, ¿tenemos derecho a reparación?"
+PC-033,victimas_conflicto,consulta_usuario,Nos quitaron la finca en el conflicto y ahora otra persona vive ahí.
+PC-034,victimas_conflicto,consulta_usuario,"Mi hermano estuvo reclutado de niño por un grupo armado, ¿es víctima?"
+PC-035,victimas_conflicto,consulta_usuario,Somos de un consejo comunitario y nos están amenazando para que nos vayamos.
+PC-036,genero,consulta_usuario,Mi pareja maneja mi salario y me da solo para los pasajes.
+PC-037,genero,consulta_usuario,Mi exesposo me sigue amenazando por teléfono y tengo miedo de salir.
+PC-038,genero,consulta_usuario,Mi novio me revisa el celular y me prohíbe ver a mis amigas.
+PC-039,genero,consulta_usuario,Él me quitó la cédula y la tarjeta para que yo no pueda irme.
+PC-040,genero,consulta_usuario,Mi supervisor me insinúa cosas y me dice que si me quejo pierdo el puesto.

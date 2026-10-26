@@ -1,0 +1,63 @@
+Entrenamiento: 256 | Prueba U2: 50 | Prueba ciega: 40
+Epoca 1/5 - perdida 1.9577
+Epoca 2/5 - perdida 1.1283
+Epoca 3/5 - perdida 0.4189
+Epoca 4/5 - perdida 0.1577
+Epoca 5/5 - perdida 0.0664
+
+===== prueba_U2 (50 casos) =====
+                    precision    recall  f1-score   support
+
+    administrativo       0.83      0.83      0.83         6
+             civil       1.00      0.67      0.80         6
+    constitucional       0.83      0.83      0.83         6
+           familia       1.00      1.00      1.00         6
+            genero       0.88      1.00      0.93         7
+           laboral       0.88      1.00      0.93         7
+             penal       0.80      0.67      0.73         6
+victimas_conflicto       0.86      1.00      0.92         6
+
+          accuracy                           0.88        50
+         macro avg       0.88      0.88      0.87        50
+      weighted avg       0.88      0.88      0.88        50
+
+  civil               -> administrativo      76%  Se declara la responsabilidad civil del colegio por el accid
+  constitucional      -> victimas_conflicto  68%  Jurisdicción especial indígena: las autoridades del resguard
+  penal               -> genero              82%  El usuario relata AMENAZAS de muerte y exigencia de dinero (
+  administrativo      -> constitucional      59%  Una ambulancia del hospital público se demoró 3 horas y mi p
+  civil               -> penal               45%  Un carro me chocó la moto y el conductor no quiere pagar los
+  penal               -> laboral             65%  Me están llamando a cobrar vacuna para dejarme trabajar en e
+
+===== prueba_ciega (40 casos) =====
+                    precision    recall  f1-score   support
+
+    administrativo       1.00      0.20      0.33         5
+             civil       0.60      0.60      0.60         5
+    constitucional       0.56      1.00      0.71         5
+           familia       0.80      0.80      0.80         5
+            genero       0.83      1.00      0.91         5
+           laboral       1.00      0.80      0.89         5
+             penal       0.67      0.80      0.73         5
+victimas_conflicto       1.00      0.80      0.89         5
+
+          accuracy                           0.75        40
+         macro avg       0.81      0.75      0.73        40
+      weighted avg       0.81      0.75      0.73        40
+
+  familia             -> genero              71%  Mi exesposo no ha vuelto a pagar la cuota de los niños desde
+  laboral             -> constitucional      75%  Me echaron porque me enfermé y estaba con incapacidad.
+  penal               -> civil               98%  Un señor me engañó con un falso arriendo, le consigné el dep
+  civil               -> familia             95%  Mi papá falleció y dejó una casa, ¿cómo hacemos para pasarla
+  civil               -> constitucional      50%  Me cobran una deuda de hace más de diez años, ¿todavía me pu
+  administrativo      -> penal               65%  Me llegó una multa de tránsito de una ciudad donde nunca he 
+  administrativo      -> constitucional      87%  La alcaldía me cerró el negocio sin darme oportunidad de def
+  administrativo      -> civil               84%  Quiero reclamar porque catastro le subió muchísimo el avalúo
+  administrativo      -> constitucional      82%  Gané el concurso de la DIAN y no me han posesionado.
+  victimas_conflicto  -> penal               89%  A mi familia la sacaron de la vereda unos armados y llegamos
+
+===== Resumen (umbral 70%) =====
+    conjunto  casos  accuracy  f1_macro  cobertura_umbral errores_atajados
+   prueba_U2     50      0.88     0.873             0.840              4/6
+prueba_ciega     40      0.75     0.733             0.875             2/10
+
+Modelo guardado en modelos/beto_justia_v2.0.0
